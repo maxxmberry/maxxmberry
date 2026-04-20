@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maxxmberry
 - 👀 I’m interested in coding with python
 - 🌱 I’m currently learning how to effectively code with python
-- 📫 How to reach me:
+- 📫 How to reach me:  
   email: maxxmberry@gmail.com
   
 
