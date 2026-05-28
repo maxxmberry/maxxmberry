@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxxmberry
-- 👀 I’m interested in coding with python
-- 🌱 I’m currently learning how to effectively code with python
+- 👀 I am interested in anything and everything data & analytics
+- 🌱 I am constantly learning new skills and methodologies in my field
 - 📫 How to reach me:  
   email: maxxmberry@gmail.com
   
